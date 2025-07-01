@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly==5.15.0
+transformers
+huggingface_hub
+python-dotenv
+torch
