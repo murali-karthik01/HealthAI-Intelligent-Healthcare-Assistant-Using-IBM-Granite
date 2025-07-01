@@ -41,7 +41,7 @@ This project uses the **IBM Granite 2B Instruct** language model for:
 
 ### 📅 Download Instructions
 
-1. [Download the model folder](https://huggingface.co/ibm-granite/granite-2b-instruct).
+1. [Download the model folder](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct).
 2. Alternatively, use `download_model.py` script to auto-download.
 3. Place the downloaded folder as:
 
