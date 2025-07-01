@@ -112,7 +112,7 @@ streamlit run app.py
 
 **Murali Karthik**
 📧 mailto: muralikarthikedu.com
-🔗 https://linkedin.com/in/yourprofile | https://github.com/murali-karthik01
+🔗 www.linkedin.com/in/muralikarthikabbadasari | https://github.com/murali-karthik01
 
 ---
 
