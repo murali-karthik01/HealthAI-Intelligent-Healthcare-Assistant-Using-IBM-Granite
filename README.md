@@ -95,7 +95,7 @@ streamlit run app.py
 | -------------- | ------------------------------ |
 | Streamlit      | Frontend + app logic           |
 | Transformers   | Model loading & inference      |
-| IBM Granite    | Base LLM (3B instruct)         |
+| IBM Granite    | Base LLM (2B instruct)         |
 | Plotly         | Analytics dashboard            |
 | Pandas / NumPy | Data simulation & manipulation |
 
